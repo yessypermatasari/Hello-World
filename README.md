@@ -5,10 +5,9 @@ It was a Hello World program using ASP.Net by C#
 ![Screenshot](https://github.com/miftakhulrohmah/HelloWorld/blob/master/HelloWorld.JPG) <br>
 
 # Identitas <br>
-Nama    : Miftakhul Rohmah<br>
+Nama    : Yessy Permatasari<br>
 Kelas   : XIRPL1<br>
-No      : 19<br>
-NIS     : 4751<br>
+No      : 34<br>
 Sekolah : SMK Telkom Malang<br>
 Jurusan : RPL<br>
 Mapel   : Pemrograman Dekstop<br>
